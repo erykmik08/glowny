@@ -1,0 +1,9 @@
+[submodule "lib/modul1"]
+	path = lib/modul1
+	url = https://github.com/erykmik08/ModulA
+[submodule "lib/modul2"]
+	path = lib/modul2
+	url = https://github.com/erykmik08/ModulB
+[submodule "lib/modul3"]
+	path = lib/modul3
+	url = https://github.com/erykmik08/ModulC
